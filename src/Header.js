@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './Header.css';
-import GitHubLogo from '.\\GitHub-Mark-32px.png';
+import GitHubLogo from './GitHub-Mark-32px.png';
 
 export class Header extends Component {
     render() {
